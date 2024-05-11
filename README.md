@@ -2,6 +2,8 @@
 
 This Flutter application fetches and displays information about countries from the REST Countries API. It categorizes countries into continents and allows you to view country details.
 
+<img src="C:\Users\Dibyo Dhara\Downloads\Main.jpg" alt="Screenshot" width="500" />
+
 ## Instructions
 
 ### Prerequisites
